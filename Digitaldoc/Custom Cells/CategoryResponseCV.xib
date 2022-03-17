@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder.AppleTV.XIB" version="3.0" toolsVersion="19455" targetRuntime="AppleTV" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="appleTV" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="CategoryResponseCV" id="Z8b-ap-Z0Y" customClass="CategoryResponseCV" customModule="Digitaldoc" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="350"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="600" height="350"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bl8-mz-iEq">
+                        <rect key="frame" x="10" y="10" width="580" height="330"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="defaultImg" translatesAutoresizingMaskIntoConstraints="NO" id="SaV-lZ-vJp">
+                                <rect key="frame" x="-3.5" y="0.0" width="587" height="330"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Digital Doc" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2hN-qI-xl7">
+                                <rect key="frame" x="22" y="338.5" width="536" height="23"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="SaV-lZ-vJp" firstAttribute="centerY" secondItem="bl8-mz-iEq" secondAttribute="centerY" id="598-5l-z8j"/>
+                            <constraint firstAttribute="trailing" secondItem="2hN-qI-xl7" secondAttribute="trailing" constant="22" id="Jcu-oQ-w98"/>
+                            <constraint firstItem="2hN-qI-xl7" firstAttribute="leading" secondItem="bl8-mz-iEq" secondAttribute="leading" constant="22" id="Zbv-Rl-kXS"/>
+                            <constraint firstItem="SaV-lZ-vJp" firstAttribute="top" secondItem="bl8-mz-iEq" secondAttribute="top" id="oZY-GB-kMI"/>
+                            <constraint firstItem="SaV-lZ-vJp" firstAttribute="width" secondItem="bl8-mz-iEq" secondAttribute="height" multiplier="16:9" id="tt8-ib-WDT"/>
+                            <constraint firstItem="SaV-lZ-vJp" firstAttribute="centerX" secondItem="bl8-mz-iEq" secondAttribute="centerX" id="wNr-Ku-Hsj"/>
+                            <constraint firstItem="2hN-qI-xl7" firstAttribute="centerY" secondItem="bl8-mz-iEq" secondAttribute="centerY" constant="185" id="yMJ-5Z-MyA"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="Piv-Uv-xlC"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="bl8-mz-iEq" secondAttribute="bottom" constant="10" id="1UH-DB-VHG"/>
+                <constraint firstItem="bl8-mz-iEq" firstAttribute="leading" secondItem="Z8b-ap-Z0Y" secondAttribute="leading" constant="10" id="GA1-qM-Nr1"/>
+                <constraint firstItem="bl8-mz-iEq" firstAttribute="top" secondItem="Z8b-ap-Z0Y" secondAttribute="top" constant="10" id="XVj-hF-Lkp"/>
+                <constraint firstAttribute="trailing" secondItem="bl8-mz-iEq" secondAttribute="trailing" constant="10" id="fe4-8Y-oEL"/>
+            </constraints>
+            <connections>
+                <outlet property="ImgContentView" destination="bl8-mz-iEq" id="gkv-WD-uHP"/>
+                <outlet property="categoryImg" destination="SaV-lZ-vJp" id="XMH-G0-1Fu"/>
+                <outlet property="categoryTitle" destination="2hN-qI-xl7" id="Nob-S6-Ocj"/>
+            </connections>
+            <point key="canvasLocation" x="185" y="34"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="defaultImg" width="885" height="500"/>
+    </resources>
+</document>
