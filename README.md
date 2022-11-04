@@ -67,42 +67,24 @@ Built with Laravel 8
 Special thanks to [Taylor Otwell](https://laravel.com/), [Jeffrey Way](https://laracasts.com)
 
 ### Contributions
-
 are welcome. Pull requests are great, but issues are good too.
 
 ## Sponsors
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/genealogy#sponsor)]
 
+The family tree is to support for family guys.
 
+## Update
+Sorry, doe to some reason, i just write only important  things.
+1. Boss
+- only 3k arrived.
+- due to first problem, can't be.
+- i am sorry.
+- same with second problem.
 
-Please write down here as English what you want me to do. with contact number.
-
-## Ok, thank you!
-
-If you can make two calls for me and my boss, I would be really much appreciated.
-
-# 1. My Boss (His name is Kim Se Guk)
-  - Contact number:  His Wife (You can call her like Guk Hyang's Mam 191-232-6768 or 191-370-7692)
-  ## Questions:
-    *Q1: He's recently sent his salary (22300 USD) to her and want to know if the money is arrived.
-
-    Q2: He want to move the house (3 living rooms/ 15-20K USD) to Moranbong / SeSong / DaeSong county
-
-    Q3: His wife bro is working at new job of , and he want to know his job name exactly.
-    Especially, which county? 
-    
-    Q4: Please take care of his parent well. if , please buy good medicines for their health.
-
-# 2. My Father contact (02-753-2792 or 191-570-1132 - My name is Chung Hyok)
-
-A few days ago, I received letter from home, and I have a few questions.
-
-Q1: I also sent my salary (23300 USD) to my home. Would you please confirm it if they received whole money?
-
-Q2: I've heard that my elder bro is studying at Laywer department of University. Please confirm it again, and if yes, what is his role at classroom? Ex: platoon leader or something like that...
-
-Q3: Please send my greetings to my bro's wife and What is her job?
-
-Q4: What is my cousin's job exactly (His name is Gwang Hyok)? 
-
+2. For U
+- only 3k arrived.
+- he is normal student.
+- sorry.
+- he is at central party.
