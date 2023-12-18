@@ -17,6 +17,7 @@ Run following commands
 $ composer install
 $ cp .env.testing .env
 ```
+Please check the location..
 
 Set the database information in .env [DB_DATABASE, DB_USERNAME, DB_PASSWORD], then run following commands
 
