@@ -77,15 +77,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 The family tree is to support for family guys.
 
 ## Update
-Sorry, doe to some reason, i just write only important  things.
-1. Boss
-- only 3k arrived.
-- due to first problem, can't be.
-- i am sorry.
-- same with second problem.
-
-2. For U
-- only 3k arrived.
-- he is normal student.
-- sorry.
-- he is at central party.
+where is contact info
