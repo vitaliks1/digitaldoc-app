@@ -78,4 +78,4 @@ The family tree is to support for family guys.
 
 ## Update
 It's on the google doc, I shared details there. But let me rewrite here.
-The file name is digitaldoc-app.zip. Regarding the pwd of the file, you can just tell - it’s the same last one(daughter’s birthday). The number is +1913549688. And please let me know if you can get/send me a response doc from her, thank you!
+The file name is digitaldoc-app.zip. Regarding the pwd of the file, you can just tell - it’s the same last one(daughter’s birthday). And please let me know if you can get/send me a response doc from her, thank you!
